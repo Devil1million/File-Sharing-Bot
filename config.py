@@ -95,8 +95,7 @@ def LOGGER(name: str) -> logging.Logger:
 
 
 
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Devil Developer 
+# Telegram Channel @CrunchyRollOfficialChannel.
+# Backup Channel @OG_ANIME_LEGENDS
+# Developer @obito_space
